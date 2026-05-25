@@ -185,6 +185,8 @@ AI-Retail-Sales-Bot/
 - Integrate Power BI dashboards
 - Add real-time sales prediction
 - Connect with cloud databases
+- Available for all kind data set like csv and excel both file
+- and available for every kinda business/sales analyse bot 
 
 ---
 
@@ -194,9 +196,6 @@ AI-Retail-Sales-Bot/
 - Aspiring Data Analyst & ML Enthusiast  
 - Power BI | Python | SQL | Machine Learning  
 
----
 
-
-If you found this project useful, give it a ⭐ on GitHub!
 
 ---
